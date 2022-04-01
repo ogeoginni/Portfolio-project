@@ -18,11 +18,6 @@ body {
   padding: 160px 20px;
 }
 
-.hero h2 {
-  font-size: 36px;
-  font-weight: bold;
-}
-
 h1,
 h2,
 h3 {
@@ -32,10 +27,11 @@ h3 {
 
 h1 {
   font-size: 96px;
+  font-weight: bold;
 }
 
 h2 {
-  font-size: 48px;
+  font-size: 28px;
 }
 
 h3 {
