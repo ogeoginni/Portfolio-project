@@ -1,7 +1,7 @@
 :root {
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
-  --page-color: #fafafa;
+  --page-color: #f9f8fa;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -27,19 +27,22 @@ h3 {
 
 h1 {
   font-size: 96px;
-  font-weight: bold;
+  font-family: "Fira Mono", monospace;
 }
 
 h2 {
   font-size: 28px;
+  font-family: "Fira Mono", monospace;
 }
 
 h3 {
   font-size: 24px;
   opacity: 0.7;
+  font-family: "Fira Mono", monospace;
 }
 
 p {
+  font-family: "Fira Code", monospace;
   padding: 20px;
   border-radius: 4px;
   font-size: 18px;
