@@ -12,6 +12,10 @@ body {
   display: block;
 }
 
+.body-wrap {
+  margin-top: 50px;
+}
+
 .body-wrapper {
   background-color: var(--page-color);
 }
