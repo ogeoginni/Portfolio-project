@@ -117,6 +117,11 @@ p {
   text-decoration: underline;
 }
 
+.social-links a {
+  color: var(--primary-color);
+  border-radius: 50%;
+}
+
 .mb-3 {
   margin-top: 50px;
   font-size: 48px;
