@@ -17,6 +17,15 @@ body {
   background: var (var(--page-color));
 }
 
+.about-body-wrap,
+.contact-body-wrap {
+  background: #dbd2c7;
+}
+
+.work-body-wrap {
+  background: #f8edde;
+}
+
 video {
   width: 100vw;
   height: 100vh;
